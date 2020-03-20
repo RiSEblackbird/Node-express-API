@@ -7,5 +7,7 @@
   
 OS Win10  
 Node.js v12.13.0  
-Express v6.12.0  
-MongoDB 4.2.3  
+npm v6.12.0  
+Express v4.17.1  
+nodemon v2.0.2  
+MongoDB v4.2.3  
