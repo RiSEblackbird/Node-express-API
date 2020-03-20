@@ -18,5 +18,8 @@
   "homepage": "https://github.com/RiSEblackbird/Node-express-API#readme",
   "dependencies": {
     "mongoose": "^5.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
