@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RiSEblackbird/Node-express-API/issues"
   },
-  "homepage": "https://github.com/RiSEblackbird/Node-express-API#readme"
+  "homepage": "https://github.com/RiSEblackbird/Node-express-API#readme",
+  "dependencies": {
+    "mongoose": "^5.9.5"
+  }
 }
