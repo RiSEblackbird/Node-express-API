@@ -2,7 +2,7 @@ var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
 var TaskSchema = new Schema({
-  neme: {
+  name: {
     type: String,
     required: "新しいタスク名を入力"
   },
