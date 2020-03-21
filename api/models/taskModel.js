@@ -1,5 +1,5 @@
 var mongoose = require("mongoose");
-var Schema = mongose.Schema;
+var Schema = mongoose.Schema;
 
 var TaskSchema = new Schema({
   neme: {
