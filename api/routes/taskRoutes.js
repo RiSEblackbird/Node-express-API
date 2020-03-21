@@ -3,7 +3,7 @@ module.exports = function(app) {
 
   app.route('/tasks')
     .get(taskList.all_tasks)
-    .post(taskList.cereate_task);
+    .post(taskList.create_task);
 
   app.route('/tasks/:taskId')
     .get(taskList.load_task)
